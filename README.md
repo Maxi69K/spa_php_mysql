@@ -1,4 +1,5 @@
 # spa_php_mysql
+HTML, CSS, JavaScript, PHP & MySQL
 
 ## Create base
 CREATE DATABASE spa;
